@@ -1,0 +1,1 @@
+print("歡迎加入Python班!")
